@@ -20,7 +20,7 @@ Convert the following parts of X-Plosion web site to HTML/CSS/JS. **Do not code 
   * Close Colorbox when the last image from the gallery is reached.
     
 ## Download PSD
-[xplosion.zip](raw/master/xplosion.zip) (2.1MB)
+[xplosion.zip](xplosion.zip?raw=true) (2.1MB)
 
 ## Supported browsers
 Ensure that the elements work and display correctly in the following browsers:
