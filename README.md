@@ -42,7 +42,41 @@ Ensure that your editor can load settings from .editorconfig file, otherwise use
 ## Project Delivery
 Create a public repo on your Github account and share the project URL with us once it’s done.
 
+## Quality Assurance
 
+What you need to do to get high QA score? Simply get **Yes** for all these questions:
 
+### General
 
+- Are all requirements met?
 
+### Precision
+
+- Is reasonable pixel precision achieved?
+
+### Browser check
+
+- Does page display and work correctly in supported browsers?
+
+### Valid HTML
+
+- Is page valid?
+
+### Semantic Markup
+
+- Are the correct tags being used?
+
+### Coding Standards
+
+- Does page follow HTML coding standards?
+- Does page follow CSS coding standards?
+
+### Optimization
+
+- Are image files sufficiently compressed?
+- Are CSS sprites being used for images?
+
+### Accessibility
+
+- Are ALT attributes for images provided?
+- Is proper heading structure in place?
