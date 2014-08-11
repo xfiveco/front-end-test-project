@@ -40,7 +40,7 @@ When working on the project follow our coding standards:
 Ensure that your editor can load settings from .editorconfig file, otherwise use the same coding style as specified in it.
 
 ## Project Delivery
-Create a public repo on your Github account and share the project URL with us once it’s done.
+Create a public repo on your Github account and share the project URL with us once it’s done. Please, do not use XHTMLized or X-Plosion words in your repository name (use generic name like *test*).
 
 ## Quality Assurance
 
