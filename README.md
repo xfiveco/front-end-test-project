@@ -28,7 +28,7 @@ Ensure that the elements work and display correctly in the following browsers:
 - Firefox (latest version)
 - Google Chrome (latest version)
 - Microsoft Edge
-- Internet Explorer 9
+- Internet Explorer 11
 
 ## Coding Standards
 When working on the project follow our coding standards:
