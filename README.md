@@ -10,7 +10,7 @@ Convert the following parts of X-Plosion web site to HTML/CSS/JS. **Do not code 
 ![X-Plosion](xplosion.jpg)
 
 ## Requirements
-1. Create project using **XH Generator** - https://github.com/xhtmlized/generator-xh
+1. Create project using **XH Generator** - https://github.com/xfiveco/generator-xh
 2. Use HTML5 / SCSS
 3. Create page called Home and place the elements on it
 4. Make them responsive
@@ -33,14 +33,14 @@ Ensure that the elements work and display correctly in the following browsers:
 ## Coding Standards
 When working on the project follow our coding standards:
 
-- [HTML Coding Standards](https://github.com/xhtmlized/html-coding-standards)
-- [CSS Coding Standards](https://github.com/xhtmlized/css-coding-standards) (BEM, SMACSS,  OOCSS, etc. are allowed too).
-- [JavaScript Coding Standards](https://github.com/xhtmlized/js-coding-standards)
+- [HTML Coding Standards](https://github.com/xfiveco/html-coding-standards)
+- [CSS Coding Standards](https://github.com/xfiveco/css-coding-standards) (BEM, SMACSS,  OOCSS, etc. are allowed too).
+- [JavaScript Coding Standards](https://github.com/xfiveco/js-coding-standards)
 
 Ensure that your editor can load settings from .editorconfig file, otherwise use the same coding style as specified in it.
 
 ## Project Delivery
-Create a public repo on your Github account and share the project URL with us once it’s done. Please, do not use XHTMLized or X-Plosion words in your repository name (use generic name like *test*).
+Create a public repo on your Github account and share the project URL with us once it’s done. Please, do not use Xfive or X-Plosion words in your repository name (use generic name like *test*).
 
 ## Quality Assurance
 
