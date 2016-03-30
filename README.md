@@ -2,25 +2,21 @@ Front-end Test Project
 ======================
 
 ## Project brief
-Convert the following parts of X-Plosion web site to HTML/CSS/JS. **Do not code the whole website, only the following 2 parts from the home page!**
+Convert the following designs to HTML/CSS/JS.
 
-- 3 blocks in the sidebar - http://screencast.com/t/VDe4tkzo7E8H
-- News area - http://screencast.com/t/B31RvB5ZyFsQ
-
-![X-Plosion](xplosion.jpg)
+![Xfive Front-end Test Thumbnails](xfive-front-end-test-thumbs.jpg)
+![Xfive Front-end Test Overlay](xfive-front-end-test-overlay.jpg)
 
 ## Requirements
-1. Create project using **XH Generator** - https://github.com/xfiveco/generator-xh
+1. Create project using [XH Generator](https://github.com/xfiveco/generator-xh)
 2. Use HTML5 / SCSS
-3. Create page called Home and place the elements on it
-4. Make them responsive
-5. Add Colorbox (http://www.jacklmoore.com/colorbox/) as a Bower dependency and open sample photos in the news section as an image group / gallery like follows:
-  * When the page loads open the first photo in colorbox automatically (without user clicking on the image).
-  * Go through all 4 images in 2 seconds interval but without using a built in slideshow functionality (Hint: Check *Event Hooks* example on the Colorbox homepage.)
-  * Close Colorbox when the last image from the gallery is reached.
+3. Make the design responsive
+4. Create a simple custom overlay for photos - use only vanilla JavaScript, do not use jQuery or any other external libraries for it. You can use Browserify in XH Generator
+5. Make the page smallest possible size - ensure that images are properly optimized, resources minified, etc.
+6. *Optional bonus task:* Make the back button in browser work properly with the overlays. 
 
 ## Download PSD
-[xplosion.zip](xplosion.zip?raw=true) (2MB)
+[xfive-front-end-test.zip](xfive-front-end-test.zip?raw=true) (24MB)
 
 ## Supported browsers
 Ensure that the elements work and display correctly in the following browsers:
@@ -31,16 +27,11 @@ Ensure that the elements work and display correctly in the following browsers:
 - Internet Explorer 11
 
 ## Coding Standards
-When working on the project follow our coding standards:
+When working on the project use consistent coding style. You can follow guidelines like [Code Guide](http://codeguide.co/) or [CSS Guidelines](http://cssguidelin.es/).
 
-- [HTML Coding Standards](https://github.com/xfiveco/html-coding-standards)
-- [CSS Coding Standards](https://github.com/xfiveco/css-coding-standards) (BEM, SMACSS,  OOCSS, etc. are allowed too).
-- [JavaScript Coding Standards](https://github.com/xfiveco/js-coding-standards)
-
-Ensure that your editor can load settings from .editorconfig file, otherwise use the same coding style as specified in it.
 
 ## Project Delivery
-Create a public repo on your Github account and share the project URL with us once it’s done. Please, do not use Xfive or X-Plosion words in your repository name (use generic name like *test*).
+Create a public repo on your Github or BitBucket account and share the project URL with us once it’s done. Please, do not use Xfive or X-Plosion words in your repository name (use generic name like *test*).
 
 ## Quality Assurance
 
@@ -68,15 +59,18 @@ What you need to do to get high QA score? Simply get **Yes** for all these quest
 
 ### Coding Standards
 
-- Does page follow HTML coding standards?
-- Does page follow CSS coding standards?
+- Is page using a consistent HTML coding style?
+- Is page using a consistent CSS coding style?
+- Is page using a consistent JS coding style?
 
 ### Optimization
 
 - Are image files sufficiently compressed?
-- Are CSS sprites being used for images?
+- Are responsive images used?
+- Is CSS and JS concatenated and minified? 
 
 ### Accessibility
 
-- Are ALT attributes for images provided?
+- Are proper ALT attributes for images provided?
+- Are ARIA attributes properly used?
 - Is proper heading structure in place?
