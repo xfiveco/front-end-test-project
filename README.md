@@ -19,6 +19,13 @@ Convert the following designs to HTML/CSS/JS.
 ## Download PSD
 [xfive-front-end-test.zip](xfive-front-end-test.zip?raw=true) (24MB)
 
+- font used in the design is Open Sans
+- the following images are used in the design:
+  -  https://pixabay.com/en/new-zealand-lake-mountain-landscape-679068/
+  -  https://pixabay.com/en/new-zealand-lake-web-kai-dock-583176/
+  -  https://pixabay.com/en/new-zealand-doubtful-sound-fjord-583181/
+  -  https://pixabay.com/en/sun-rise-beach-new-zealand-auckland-661541/
+
 ## Supported browsers
 Ensure that the elements work and display correctly in the following browsers:
 
