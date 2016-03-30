@@ -31,7 +31,7 @@ When working on the project use consistent coding style. You can follow guidelin
 
 
 ## Project Delivery
-Create a public repo on your Github or BitBucket account and share the project URL with us once it’s done. Please, do not use Xfive or X-Plosion words in your repository name (use generic name like *test*).
+Create a public repo on your Github or Bitbucket account and share the project URL with us once it’s done. Please, do not use Xfive or X-Plosion words in your repository name (use generic name like *test*).
 
 ## Quality Assurance
 
