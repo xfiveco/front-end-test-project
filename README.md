@@ -32,7 +32,7 @@ When working on the project use consistent coding style. You can follow guidelin
 
 
 ## Project Delivery
-Please let us know if you decide to work on the test, we will create a private repository on Bitbucket and share it with you so you can deliver the project files there.
+Please let us know your Bitbucket ID, if you decide to work on the test. We will create a private repository on Bitbucket and share it with you so you can deliver the project files there.
 
 ## Quality Assurance
 
