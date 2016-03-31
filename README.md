@@ -10,7 +10,7 @@ Convert the following designs to HTML/CSS/JS.
 ## Requirements
 1. Create project using [XH Generator](https://github.com/xfiveco/generator-xh)
 2. Use HTML5 / SCSS
-3. Make the design responsive
+3. Make it responsive by your best judgement
 4. Create a simple custom overlay for photos - use only vanilla JavaScript, do not use jQuery or any other external libraries for it. You can use Browserify in XH Generator
 5. Create some hover effect for the image thumbnails
 6. Make the page smallest possible size - ensure that images are properly optimized, resources minified, etc.
@@ -54,7 +54,7 @@ What you need to do to get high QA score? Simply get **Yes** for all these quest
 
 ### Precision
 
-- Is reasonable pixel precision achieved?
+- Is reasonable precision achieved?
 
 ### Browser check
 
