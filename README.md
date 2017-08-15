@@ -4,23 +4,27 @@ Front-end Test Project
 ## Project brief
 Convert the following designs to HTML/CSS/JS.
 
+### Thumbnails
 ![Xfive Front-end Test Thumbnails](xfive-front-end-test-thumbs.jpg)
+
+### Overlay
 ![Xfive Front-end Test Overlay](xfive-front-end-test-overlay.jpg)
 
 ## Requirements
-1. Create project using [XH Generator](https://github.com/xfiveco/generator-xh)
+1. Create project using [Chisel](https://github.com/xfiveco/generator-chisel)
 2. Use HTML5 / SCSS
-3. Make it responsive by your best judgement
-4. Create a simple custom overlay for photos - use only vanilla JavaScript, do not use jQuery or any other external libraries for it. You can use Browserify in XH Generator
-5. Create some hover effect for the image thumbnails
-6. Make the page smallest possible size - ensure that images are properly optimized, resources minified, etc.
-7. *Optional bonus task:* Make the back button in browser work properly with the overlays. 
+3. Make it responsive using your best judgement.
+4. Create a simple custom overlay for photos - use only vanilla JavaScript, do not use jQuery or any other external libraries for it.
+5. Create some hover effect for the image thumbnails.
+6. Make the page the smallest possible size - ensure that images are properly optimized, resources minified, etc.
+7. *Optional bonus task 1:* Use [responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
+8. *Optional bonus task 2:* Add basic routing – make browser's back button work properly; open overlay based on URL. 
 
 ## Download PSD
 [xfive-front-end-test.zip](xfive-front-end-test.zip?raw=true) (24MB)
 
-- font used in the design is Open Sans
-- the following images are used in the design:
+- The font used in the design is Open Sans
+- The following images are used in the design:
   -  https://pixabay.com/en/new-zealand-lake-mountain-landscape-679068/
   -  https://pixabay.com/en/new-zealand-lake-web-kai-dock-583176/
   -  https://pixabay.com/en/new-zealand-doubtful-sound-fjord-583181/
@@ -35,22 +39,20 @@ Ensure that the elements work and display correctly in the following browsers:
 - Internet Explorer 11
 
 ## Coding Standards
-When working on the project use consistent coding style. You can follow guidelines like [Code Guide](http://codeguide.co/) or [CSS Guidelines](http://cssguidelin.es/).
+When working on the project use consistent coding style. Try to follow what's already defined in Chisel (EditorConfig, stylelint, ESLint). You can also check guidelines like [Code Guide](http://codeguide.co/) or [CSS Guidelines](http://cssguidelin.es/).
 
-
-## Project Delivery
-Please let us know your Bitbucket ID, if you decide to work on the test. We will create a private repository on Bitbucket and share it with you so you can deliver the project files there.
+## Project Deadline
+Take your time but try to deliver it within 2 weeks time. If we don't see any activity in your test repository after 2 weeks (at least initial commits), we will automatically withdraw your application.
 
 ## Quality Assurance
 
-What you need to do to get high QA score? Simply get **Yes** for all these questions:
+What you need to do to get high QA score? Simply answer **Yes** to all these questions:
 
 ### General
 
-- Are all requirements met?
-- Can the project be built using `grunt build`?
-- Is the page usable?
-- Is the page working without JS errors?
+- Are all requirements set above met?
+- Can the project be built using `npm run build`?
+- Is the page working without any JS errors?
 
 ### Precision
 
@@ -62,7 +64,7 @@ What you need to do to get high QA score? Simply get **Yes** for all these quest
 
 ### Valid HTML
 
-- Is page valid?
+- Is the page valid?
 
 ### Semantic Markup
 
@@ -70,14 +72,13 @@ What you need to do to get high QA score? Simply get **Yes** for all these quest
 
 ### Coding Standards
 
-- Is page using a consistent HTML coding style?
-- Is page using a consistent CSS coding style?
-- Is page using a consistent JS coding style?
+- Is the page using a consistent HTML coding style?
+- Is the page using a consistent CSS coding style?
+- Is the page using a consistent JS coding style?
 
 ### Optimization
 
 - Are image files sufficiently compressed?
-- Are responsive images used?
 - Is CSS and JS concatenated and minified? 
 
 ### Accessibility
