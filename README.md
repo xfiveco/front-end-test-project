@@ -18,17 +18,16 @@ Convert the following designs to HTML/CSS/JS.
 5. Create some hover effect for the image thumbnails.
 6. Make the page the smallest possible size - ensure that images are properly optimized, resources minified, etc.
 7. *Optional bonus task 1:* Use [responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
-8. *Optional bonus task 2:* Add basic routing – make browser's back button work properly; open overlay based on URL. 
+8. *Optional bonus task 2:* Add basic routing – make browser's back button work properly; open overlay based on URL.
 
-## Download PSD
-[xfive-front-end-test.zip](xfive-front-end-test.zip?raw=true) (24MB)
+## Design
+Design is available in [Figma](https://www.figma.com/) at https://www.figma.com/file/ZGj2jrg8V5tE2g35V8ueAHAb/Xfive-Front-end-Test. If you haven't already, sign up for a free Figma account, so you can work with the design.
 
-- The font used in the design is Open Sans
-- The following images are used in the design:
-  -  https://pixabay.com/en/new-zealand-lake-mountain-landscape-679068/
-  -  https://pixabay.com/en/new-zealand-lake-web-kai-dock-583176/
-  -  https://pixabay.com/en/new-zealand-doubtful-sound-fjord-583181/
-  -  https://pixabay.com/en/sun-rise-beach-new-zealand-auckland-661541/
+The following images are used in the design:
+ -  https://pixabay.com/en/new-zealand-lake-mountain-landscape-679068/
+ -  https://pixabay.com/en/new-zealand-lake-web-kai-dock-583176/
+ -  https://pixabay.com/en/new-zealand-doubtful-sound-fjord-583181/
+ -  https://pixabay.com/en/sun-rise-beach-new-zealand-auckland-661541/
 
 ## Supported browsers
 Ensure that the elements work and display correctly in the following browsers:
@@ -79,7 +78,7 @@ What you need to do to get high QA score? Simply answer **Yes** to all these que
 ### Optimization
 
 - Are image files sufficiently compressed?
-- Is CSS and JS concatenated and minified? 
+- Is CSS and JS concatenated and minified?
 
 ### Accessibility
 
