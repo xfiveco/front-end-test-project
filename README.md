@@ -11,7 +11,7 @@ Convert the following designs to HTML/CSS/JS.
 ![Xfive Front-end Test Overlay](xfive-front-end-test-overlay.jpg)
 
 ## Requirements
-1. Create project using [Chisel](https://github.com/xfiveco/generator-chisel)
+1. Create project using [Chisel](https://www.getchisel.co/)
 2. Use HTML5 / SCSS
 3. Make it responsive using your best judgement.
 4. Create a simple custom overlay for photos - use only vanilla JavaScript, do not use jQuery or any other external libraries for it.
@@ -38,7 +38,7 @@ Ensure that the elements work and display correctly in the following browsers:
 - Internet Explorer 11
 
 ## Coding Standards
-When working on the project use consistent coding style. Try to follow what's already defined in Chisel (EditorConfig, stylelint, ESLint). You can also check guidelines like [Code Guide](http://codeguide.co/) or [CSS Guidelines](http://cssguidelin.es/).
+When working on the project use consistent coding style. Try to follow what's already in Chisel - EditorConfig, stylelint, ESLint, (see [Code Quality](https://www.getchisel.co/docs/development/code-quality/)), [ITCSS](https://www.getchisel.co/docs/development/itcss/), etc.
 
 ## Project Deadline
 Take your time but try to deliver it within 2 weeks time. If we don't see any activity in your test repository after 2 weeks (at least initial commits), we will automatically withdraw your application.
